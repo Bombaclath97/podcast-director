@@ -2,6 +2,7 @@
 
 Simple podcast director. How to use:
 
+0. Install requirements using pip (`pip install -r requirements.txt`)
 1. Create an `input` folder
 2. In the `input` folder add the three video sources:
    1. wide_angle.mp4: The camera that records to the whole scene
